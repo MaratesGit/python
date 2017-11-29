@@ -1,0 +1,6 @@
+crypto
+bash
+Telegram
+netns
+ksmd
+python3
